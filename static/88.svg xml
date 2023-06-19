@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="90px" height="90px" viewBox="0 0 90 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>交通</title>
+    <g id="交通" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval" fill="#79BC51" fill-rule="nonzero" opacity="0.15" cx="45" cy="45" r="45"></circle>
+        <rect id="矩形" stroke="#309B39" stroke-width="4" x="27" y="23" width="36" height="36"></rect>
+        <line x1="27" y1="43.25" x2="62" y2="43.25" id="直线-10" stroke="#309B39" stroke-width="4" stroke-linecap="square"></line>
+        <line x1="36.9883877" y1="60.9943907" x2="33.4106789" y2="68.1498083" id="直线-11" stroke="#309B39" stroke-width="4" stroke-linecap="square" transform="translate(35.199533, 64.572100) rotate(-1.565051) translate(-35.199533, -64.572100) "></line>
+        <line x1="56.5893211" y1="60.9943907" x2="53.0116123" y2="68.1498083" id="直线-11备份-2" stroke="#309B39" stroke-width="4" stroke-linecap="square" transform="translate(54.800467, 64.572100) scale(-1, 1) rotate(-1.565051) translate(-54.800467, -64.572100) "></line>
+        <circle id="椭圆形" fill="#309B39" cx="36.5" cy="51.5" r="2.5"></circle>
+        <circle id="椭圆形备份" fill="#309B39" cx="53.5" cy="51.5" r="2.5"></circle>
+    </g>
+</svg>

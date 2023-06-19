@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>已读邮件_mail-open</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="消息列表" transform="translate(-60.000000, -170.000000)">
+            <g id="三组切换" transform="translate(0.000000, 128.000000)">
+                <g id="已读邮件_mail-open" transform="translate(60.000000, 42.000000)">
+                    <rect id="矩形" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="28" height="28"></rect>
+                    <g id="编组" transform="translate(2.333333, 2.333333)" stroke="#5E616D" stroke-linejoin="round" stroke-width="2">
+                        <path d="M23.3333333,8.16666667 L23.3333333,20.8939394 C23.3333333,21.5968472 22.8109989,22.1666667 22.1666667,22.1666667 L1.16666667,22.1666667 C0.522334458,22.1666667 0,21.5968472 0,20.8939394 L0,8.16666667 L11.6666667,15.75 L23.3333333,8.16666667 Z" id="路径"></path>
+                        <polyline id="路径" points="-2.07241631e-15 8.04061405 11.6666667 -1.45069142e-14 23.3333333 8.04061405"></polyline>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
